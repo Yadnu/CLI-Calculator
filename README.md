@@ -1,1 +1,1 @@
-Learning enquirer. It is typescript cli library.
+Practice projects of Enquirer library
